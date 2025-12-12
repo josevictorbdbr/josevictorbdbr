@@ -2,7 +2,7 @@
 <h2 align="center">Computer Science student (5th semester) Continuously improving my skills through academic projects and practical experimentation. </h2>
 
 - 🌱 Currently learning **Software Development**
-- 🎮 Had some experience with **Game Dev** and modding games
+- 🎮 Had some small experiences with **Game Dev** and modding games
 - 📫 How to reach me **josevictorbdbr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
