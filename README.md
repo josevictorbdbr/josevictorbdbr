@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm José Victor</h1>
 <h2 align="center">Computer Science student (5th semester) Continuously improving my skills through academic projects and practical experimentation. </h2>
 
-- 🌱 currently learning **Software Development**
-
+- 🌱 Currently learning **Software Development**
+- 🎮 Had some experience with **Game Dev** and modding games
 - 📫 How to reach me **josevictorbdbr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
