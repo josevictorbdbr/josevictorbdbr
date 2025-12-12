@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Victor</h1>
-<h2 align="center">Computer Science student (5th semester) Continuously improving my skills through academic projects and practical experimentation.</h2>
+<h2 align="center">Computer Science student (5th semester) Continuously improving my skills through academic projects and practical experimentation. </h2>
 
 - 🌱 currently learning **Software Development**
 
